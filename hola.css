@@ -98,6 +98,12 @@ display: flex;
 justify-content: center;
 }
 
+.flexcen {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
 
 .logo {
 height: 75px;
